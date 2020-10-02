@@ -24,6 +24,8 @@
 - Cursos:
    - [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos), por Data Science Academy (Dica do Wesley Alves);  
    
+   - [Análise de dados em Python — LABHacker — Câmara dos Deputados](https://www.youtube.com/playlist?list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH), por (LABHacker) (Dica de [Fernando Silva](https://twitter.com/fernandomigas)): 
+  
 - Livros
     - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook), por Jake VanderPlas (Dica do Wesley Alves);  
 
