@@ -16,7 +16,11 @@
 - [Pythonicos](https://www.youtube.com/watch?v=esW-3ZfatyM&list=PLIfZMtpPYFP4seAqp3K96-PPVFCgX6Zlg&ab_channel=PapoBin%C3%A1rio), por Canal Papo Binário (Dica da [Carolis](https://twitter.com/caroliscaroles));
 
 
+  ## Lógica de programação
+  
+- Cursos:
 
+    - [Curso completo de lógica de programação|](https://buildlab.com.br/aprenda-a-programar/), por BUILD LAB (Dica de [Fernando Silva](https://twitter.com/fernandomigas)): 
 
 
 ## Data Science
